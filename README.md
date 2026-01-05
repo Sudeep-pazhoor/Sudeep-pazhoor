@@ -37,14 +37,6 @@ Explore some of my standout projects showcasing full stack development, state ma
 
 *(Check out more on my [GitHub profile](https://github.com/Sudeep-pazhoor).)*  
 
----
-
-## 📈 GitHub Stats  
-[![Sudeep’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeep-pazhoor&show_icons=true&theme=radical&hide=contribs)](https://github.com/Sudeep-pazhoor)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeep-pazhoor&layout=compact&theme=radical)](https://github.com/Sudeep-pazhoor)  
-
----
-
 ## Connect With Me  
 Let's collaborate on your next project!  
 
