@@ -24,8 +24,8 @@ As a dedicated full stack developer, I specialize in creating responsive, high-p
 Explore some of my standout projects showcasing full stack development, state management, and interactive UIs. Each includes a brief overview and links to the repository (and live demo where available):  
 - **[Boundless Travelogues](https://boundlesstravelogues.com)**
   Modern travel website showcasing curated tour packages and immersive travel experiences. Designed for smooth navigation, engaging visuals, and reliable      performance using modern web technologies.
-  *[Live Demo](https://boundlesstravelogues.com)
-  | Tech: Astro, React, JavaScript, HTML5, CSS, Three.js, Anime.js, Node.js, GSAP]*
+
+  *[Live Demo](https://boundlesstravelogues.com) | Tech: Astro, React, JavaScript, HTML5, CSS, Three.js, Anime.js, Node.js, GSAP]*
   
 - **[FaceIn Technologies](https://www.facein.in)**  
   High-performance corporate website delivering cutting-edge technology solutions. Built with modern frameworks and managed by PM2 for optimal scalability and reliability.  
